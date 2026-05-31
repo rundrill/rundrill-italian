@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rundrill-italian": {
+      "type": "http",
+      "url": "https://mcp.rundrill.com/lang/italian"
+    }
+  }
+}
